@@ -1,4 +1,4 @@
-# Desarrollo de Aplicaciones Distribuidas - Eduardo Godines Santana
+# Desarrollo de Aplicaciones Distribuidas - Cesar Eduardo Atempa Basilio
 
 Este repositorio contiene los trabajos realizados por Eduardo Godines Santana para la materia de Desarrollo de Aplicaciones Distribuidas.
 
